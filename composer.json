@@ -1,0 +1,24 @@
+{
+    "name": "luofusheng/uploadfile",
+    "description": "a package for uploading file",
+    "type": "1",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Luofusheng\\Uploadfile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luofusheng",
+            "email": "2812313382@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
